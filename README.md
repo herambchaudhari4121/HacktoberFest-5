@@ -28,3 +28,9 @@ A repository for hacktoberfest submissions
 8. Checkout to main branch using following command and then repeat the steps 3 to 7 to create all 4 PRs.
 
 `git checkout main`
+# GDSC LNCT
+
+<div align="center">
+
+<a href="https://github.com/dsclnct/Hacktoberfest-DSC-Website"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
+<a href="https://github.com/dsclnct/Hacktoberfest-DSC-Website"><img src="https://img.shields.io/badge/Built%20by-developers%20%3C%2F%3E-0059b3"></a>
